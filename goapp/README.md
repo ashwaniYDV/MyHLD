@@ -25,4 +25,4 @@
 ```
 
 ## Docker image
-- https://hub.docker.com/r/sabujjana/goapp
+- https://hub.docker.com/r/ashwaniyadav/goapp
