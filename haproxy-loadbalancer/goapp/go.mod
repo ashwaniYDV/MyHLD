@@ -1,3 +1,3 @@
-module github.com/JanaSabuj/medium-blogs/haproxy-docker-1/goapp
+module github.com/ashwaniYDV/haproxy-loadbalancer/goapp
 
 go 1.19
