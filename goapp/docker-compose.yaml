@@ -2,7 +2,7 @@ version : '1'
 
 services:
     goapp1:
-        image: goapp
+        image: ashwaniyadav/goapp:latest
         ports:
           - "80:8081" # expose port 80 of the docker network and redirect to port 8081 of the goapp
         environment:
