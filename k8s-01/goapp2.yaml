@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: goapp
-    image: sabujjana/goapp:latest
+    image: ashwaniyadav/goapp:latest
     ports:
     - containerPort: 8083
     env:

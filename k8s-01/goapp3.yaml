@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: mygoapp-pod
+  name: mygoapp-pod3
   namespace: fightclub
   labels:
      app: go-webserver
