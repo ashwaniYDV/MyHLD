@@ -1,10 +1,10 @@
 # Network Time Protocol (NTP) 
 ---
 
-### Resources
+#### Resources
 * https://www.techtarget.com/searchnetworking/definition/Network-Time-Protocol
 
-### About NTP
+#### About NTP
 * NTP is a mechanism that synchronizes the system time of multiple computers over a network. 
 * NTP is used to keep a computer's clock accurate by periodically comparing it to a reference server.
 * NTP is a built-on UDP, where port 123 is used for NTP server communication and NTP clients use port 1023 (for example, a desktop).
